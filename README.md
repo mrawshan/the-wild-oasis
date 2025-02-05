@@ -5,6 +5,7 @@ The Wild Oasis Hotel Booking App is a single-page application (SPA) designed for
 ### How I Built This App?
 
 This application was developed using React.js + vite, leveraging its latest features for a modern and efficient user experience. The backend is powered by Supabase, ensuring a smooth and scalable database connection.
+Also the app is hosted in Netlify and Vercel for the continuous deployment.
 
 #### Key NPM Packages (dependencies)
 
